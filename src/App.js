@@ -81,7 +81,7 @@ function ChatRoom() {
   const q = query(messagesRef, orderBy("createdAt", "desc"), limit(25));
 
   const [messages] = useCollectionData(q);
-
+  console.log();
   const [formValue, setFormValue] = useState("");
 
   const sendMessage = async (e) => {
@@ -127,7 +127,7 @@ function ChatRoom() {
         />
 
         <button type="submit" disabled={!formValue}>
-          Enviar 😁
+          Enviar 🎅
         </button>
       </form>
     </>
