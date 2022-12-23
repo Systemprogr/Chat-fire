@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chat-fire/static/css/main.b6577cb3.css",
+    "main.js": "/Chat-fire/static/js/main.08c34dd3.js",
+    "index.html": "/Chat-fire/index.html",
+    "main.b6577cb3.css.map": "/Chat-fire/static/css/main.b6577cb3.css.map",
+    "main.08c34dd3.js.map": "/Chat-fire/static/js/main.08c34dd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6577cb3.css",
+    "static/js/main.08c34dd3.js"
+  ]
+}
